@@ -1,0 +1,12 @@
+Day :02 Learnings:
+
+Creation of own JSON file
+installation of Node Js server
+checking the path in env variables-path for nodes and node modules 
+checking versions in CMD 
+node --version
+npm --version
+installation of json server using "npm install -g json-server"
+command to run the student.json file over server in cmd using "json-server students.json"
+we get endpoint as response for the above command
+also, if we launch the url in browser we will get response successfully.
