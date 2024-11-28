@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Ashok",
+      "location": "Chennai",
+      "phone": "9095555347",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "68cb",
+      "courses": [
+        "mech",
+        "devops"
+      ],
+      "phone": "9095555222",
+      "name": "Sonu",
+      "location": "Blr"
+    },
+    {
+      "id": "c5d2",
+      "courses": [
+        "mech",
+        "devops"
+      ],
+      "phone": "9095555222",
+      "name": "Sonu",
+      "location": "Blr"
+    }
+  ]
+}
