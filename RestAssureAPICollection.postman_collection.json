@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "fe1e27ef-4f4a-4fb0-9673-5521cc0413f8",
+		"name": "RestAssureAPICollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40098938"
+	},
+	"item": [
+		{
+			"name": "Google_API",
+			"item": [
+				{
+					"name": "GetHeadersAndCookies",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://www.google.com/",
+							"protocol": "https",
+							"host": [
+								"www",
+								"google",
+								"com"
+							],
+							"path": [
+								""
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
